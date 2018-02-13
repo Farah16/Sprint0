@@ -1,0 +1,175 @@
+git init
+    2  git init
+    3  ls
+    4  clear
+    5  git config-- global user.name"Farah16"
+    6  git config-- global user.name"farah.abdelfattah16@gmail.com"
+    7  clear
+    8  git congfig-- global user.name"Farah16" git config-- user.email"farah.abdelfattah16@gmail.com
+    9  git init
+   10  clear
+   11  git config-- global user.name"Farah16"
+   12  git config -- global user.name "Farah16"
+   13  git config --global user.name"Farah16"
+   14  git config --global user.email"farah.abdelfattah16@gmail.com"
+   15  git init
+   16  git add AllMyCommands.txt
+   17  git add AllMyCommands
+   18  git add -A
+   19  git status
+   20  cd Desktop
+   21  cd SE
+   22  git add -A
+   23  git add -u
+   24  git status
+   25  git Add -A
+   26  git status
+   27  git add
+   28  git add .
+   29  git status
+   30  git init
+   31  git status
+   32  git add .
+   33  git status
+   34  git rm 2.txt
+   35  git rm 2
+   36  git rm 2.txt
+   37  gir rm 2
+   38  git rm 2
+   39  git status
+   40  cd 2
+   41  git rm 2.txt
+   42  -f
+   43  git status
+   44  git rm 2.txt
+   45  git rm 2.txt -f
+   46  git status
+   47  cd Desktop/SE
+   48  cd Desktop
+   49  git status
+   50  cd Desktop
+   51  cd Desktop
+   52  cd Desktop
+   53  cd SE
+   54  git status
+   55  git status
+   56  git add 2
+   57  cd 2
+   58  git status
+   59  cd Desktop/SE
+   60  cd Desktop
+   61  git rm 2.txt
+   62  cd Desktop
+   63  cd SE
+   64  git status
+   65  git add 1.txt
+   66  git rm 1/1.txt
+   67  git status
+   68  git add 2.txt
+   69  git rm 2/2.txt
+   70  git add 3.txt
+   71  git rm 3/3.txt
+   72  git status
+   73  git rm 2.txt
+   74  git status
+   75  git rm 2.txt
+   76  git rm --cached
+   77  git status
+   78  git rm 2.txt --cached
+   79  git status
+   80  git commit -m "when file 3.1 was deleted"
+   81  git config --global user.email"farah.abdelfattah16@gmail.com"
+   82  git config --global user.name"Farah16"
+   83  git status
+   84  git commit -m "this is when file 2 is deleted"
+   85  git rm 2.txt
+   86  git status
+   87  git rm 2.txt
+   88  git add 2.txt
+   89  git status
+   90  git rm 2.txt
+   91  git rm 2.txt -f
+   92  git status
+   93  git commit -m "deleted second file"
+   94  git status
+   95  git config --global user.email "farah.abdelfattah16@gmail.com"
+   96  git config --global user.name "Farah16"
+   97  git status
+   98  git log
+   99  git add 2.txt
+  100  git status
+  101  git rm 2.txt
+  102  git reset HEAD -- 2
+  103  git status
+  104  git rm 2.txt
+  105  git reset HEAD -- 2.txt
+  106  git rm 2.txt
+  107  git status
+  108  git add 2.txt
+  109  git status
+  110  git reset HEAD -- 2.txt
+  111  git rm 2.txt
+  112  git status
+  113  git add 2.txt
+  114  git reset HEAD 2.txt
+  115  git reset HEAD -- 2.txt
+  116  git status
+  117  git add 2.txt
+  118  git rm 2.txt
+  119  git reset 2.txt
+  120  git status
+  121  git rm 2.txt
+  122  git add 2.txt
+  123  git rm 2.txt
+  124  git rm 2.txt --cached
+  125  git commit -m"removing second file"
+  126  git log
+  127  git status
+  128  git statues
+  129  git status
+  130  git add 2.txt
+  131  git status
+  132  git status
+  133  git commit -m "deleted then restored the file containing 3.1 text"
+  134  git status
+  135  git clear
+  136  git clear
+  137  git remote add githubRepo https://github.com/Farah16/Sprint0.git
+  138  git remote
+  139  clear
+  140  git push -u githubRepo master
+  141  git push -u githubRepo
+  142  git pull origin master
+  143  git pull origin master
+  144  git log
+  145  git remote
+  146  git push -u githubRepo master
+  147  git push -u github master
+  148  git push -u githubRepo master
+  149  git status
+  150  git remote -v
+  151  git fetch origin
+  152  git config user.email
+  153  git fetch origin
+  154  git push origin master -f
+  155  git remote add origin https://github.com/Farah16/Sprint0.git
+  156  git remote -v
+  157  git push origin master
+  158  git push origin master -f
+  159  touch Readme.md
+  160  git add Readme
+  161  git add Readme.md
+  162  git commit -m"adding readme.md"
+  163  git checkout -b ReadMe
+  164  git add Readme.md
+  165  git commit -m"adding to branch"
+  166  git checkout master
+  167  git status
+  168  git status
+  169  ls
+  170  git merge ReadMe master
+  171  git branch
+  172  git branch --merged
+  173  git branch --merged master
+  174  git branch --no-merged
+
