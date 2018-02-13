@@ -172,4 +172,12 @@ git init
   172  git branch --merged
   173  git branch --merged master
   174  git branch --no-merged
+ git add AllMyCommands.txt
+
+farah rezk@DESKTOP-PBNN4DK MINGW64 ~/Desktop/SE (master)
+$ git commit -m"adding all my commands"
+[master 1fa6ec5] adding all my commands
+ 1 file changed, 175 insertions(+)
+
+
 
